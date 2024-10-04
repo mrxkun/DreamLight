@@ -1,0 +1,24 @@
+{
+    "ingredients": [
+      {
+        "name": "luami",
+        "price": [5000]
+      },
+      {
+        "name": "hatcacao",
+        "price": [6000]
+      },
+      {
+        "name": "duong",
+        "price": [2000]
+      },
+      {
+        "name": "trung",
+        "price": [4000]
+      },
+      {
+        "name": "sua",
+        "price": [5000]
+      }
+    ]
+  }

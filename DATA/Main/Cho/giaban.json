@@ -1,0 +1,16 @@
+{
+    "items": [
+      {
+        "name": "banhmi",
+        "prices": [15000, 20000]
+      },
+      {
+        "name": "banhcookie",
+        "prices": [1000, 2000]
+      },
+      {
+        "name": "banhkem",
+        "prices": [34000, 45000]
+      }
+    ]
+  }
